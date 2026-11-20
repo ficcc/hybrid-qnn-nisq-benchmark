@@ -1,0 +1,9 @@
+# Core stack (tested on Python 3.12, CPU-only).
+# Exact versions used for the reported results are recorded in requirements-lock.txt.
+torch>=2.5
+pennylane>=0.40
+scikit-learn>=1.5
+numpy>=1.26
+matplotlib>=3.9
+pandas>=2.2
+pytest>=8.0
